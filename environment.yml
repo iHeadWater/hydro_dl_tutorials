@@ -1,0 +1,12 @@
+name: HDB
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - matplotlib
