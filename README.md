@@ -210,8 +210,8 @@
        * 后续层级：将局部组合起来从而识别出整个物体
        * 局部轮廓边缘组合形成基本图案，基本图案形成物体的局部，局部物体再组成物体。
      * 常用网络结构：
-       * 卷积神经网络（Convolutional Neural Networks，CNN）(监督)：
-      [插入CNN图片]  
+       * 卷积神经网络（Convolutional Neural Networks，CNN）(监督)：<br />
+      ![](https://github.com/wangmengyun1998/hydro-dl-basic/blob/main/img-readme/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.png)  <br />
          * 一些定义：
              * 离线的卷积计算：由一个特征图执行的过滤操作
              * 通道：一个通道是对某个特征的检测，通道中某一处数值的强弱就是对当前特征强弱的反应
