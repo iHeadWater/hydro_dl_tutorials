@@ -6,7 +6,11 @@ channels:
 dependencies:
   - python=3.8
   - jupyterlab
-  - pytorch
-  - torchvision
+  - ipywidgets
   - scikit-learn
   - matplotlib
+  - tqdm
+  - pip
+  - pip:
+      - torch>=1.8.1
+      - torchvision>=0.9.1

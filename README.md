@@ -11,6 +11,7 @@
     - ANN
     - CNN
     - RNN
+    - NeuralODE
 - 其他
     - 强化学习
     - 迁移学习
