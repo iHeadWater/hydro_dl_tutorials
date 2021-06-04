@@ -137,6 +137,10 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-/cnn/data/
-/cnn/MNIST/
+/0-common-sense/data
+/2-CNN-basic/data/
+/2-CNN-basic/MNIST/
+/6-Neural-ODEs/MNIST/
 */.project
+
+*/MNIST
