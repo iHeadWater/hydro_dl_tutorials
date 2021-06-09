@@ -4,13 +4,14 @@ channels:
   - pytorch
   - defaults
 dependencies:
-  - python=3.8
+  - python
   - jupyterlab
   - ipywidgets
   - scikit-learn
+  - sympy
   - matplotlib
+  - seaborn
   - tqdm
-  - pip
-  - pip:
-      - torch>=1.8.1
-      - torchvision>=0.9.1
+  - pytorch>=1.8.1
+  - torchvision>=0.9.1
+  - torchdiffeq
