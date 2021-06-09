@@ -140,6 +140,7 @@ cython_debug/
 /0-common-sense/data
 /2-CNN-basic/data/
 /2-CNN-basic/MNIST/
+/6-Neural-ODEs/data/
 /6-Neural-ODEs/MNIST/
 */.project
 
