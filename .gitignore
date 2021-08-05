@@ -139,9 +139,17 @@ cython_debug/
 
 */.project
 
-/3-more-NN/img/comp/
-/3-more-NN/img/linear/
-
+# 数据
 NNET_MORE/
 MNIST/
 mnist/
+/1-simple-NN/data/
+/2-tool-pytorch/data/
+/2-tool-pytorch/tensorboard_logs/
+/2-tool-pytorch/runs/
+/3-more-knowledge/data/
+/4-more-NN/data/
+/4-more-NN/img/comp/
+/4-more-NN/img/linear/
+/8-more-tools/FashionMNIST/
+/8-more-tools/mnist_data/

@@ -1,10 +1,10 @@
 name: HDB
 channels:
-  - conda-forge
   - pytorch
+  - conda-forge
   - defaults
 dependencies:
-  - python
+  - python=3.9
   - jupyterlab
   - ipywidgets
   - scikit-learn
@@ -12,6 +12,12 @@ dependencies:
   - matplotlib
   - seaborn
   - tqdm
-  - pytorch>=1.8.1
-  - torchvision>=0.9.1
+  - cpuonly=1.0=0
+  - pytorch=1.9.0
+  - torchaudio=0.9.0
   - torchdiffeq
+  - torchvision=0.2.2
+  - tensorboard
+  - xgboost
+  - shap
+  - optuna
