@@ -144,6 +144,7 @@ NNET_MORE/
 MNIST/
 mnist/
 /1-simple-NN/data/
+/1-simple-NN/mlp_img/
 /2-tool-pytorch/data/
 /2-tool-pytorch/tensorboard_logs/
 /2-tool-pytorch/runs/
