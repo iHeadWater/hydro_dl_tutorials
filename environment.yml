@@ -2,6 +2,7 @@ name: HDB
 channels:
   - pytorch
   - conda-forge
+  - pyg
   - defaults
 dependencies:
   - python=3.9
@@ -18,6 +19,7 @@ dependencies:
   - torchdiffeq
   - torchvision=0.2.2
   - tensorboard
+  - pytorch-scatter
   - xgboost
   - shap
   - optuna
